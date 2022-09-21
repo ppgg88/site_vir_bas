@@ -1,0 +1,19 @@
+.bg_head{
+    background-color: rgb(33, 36, 39);
+}
+
+.text_head_color{
+    color: rgb(214, 214, 214) !important;
+    
+}
+.text_head_color.active{
+    color: rgb(255, 255, 255) !important;
+}
+.text_head_color:hover{
+    color: rgba(217, 223, 225, 0.789) !important;
+}
+
+.text_head_font{
+    font-size: calc(0.4vw + 0.8vh + 0.2vmin);
+}
+
